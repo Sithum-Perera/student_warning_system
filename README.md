@@ -159,6 +159,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Visualizations created with Plotly
 - PDF generation using ReportLab
 
+## Real-World Application: Streamlit Dashboard 
+- A fully functional web application has been deployed and is accessible at:
+- 🔗 https://studentwarningsystem-c6gswvr6ubev4skcxngb2z.streamlit.app/
+
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
